@@ -1,0 +1,8 @@
+El uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas 
+como Git tienen en común la responsabilidad y la colaboración. Cuando utilizamos información en línea, debemos verificar que sea 
+confiable antes de compartirla. De igual manera, la participación ciudadana requiere actuar de forma ética y respetuosa para 
+contribuir positivamente a la comunidad. En el ámbito técnico, Git permite que varias personas trabajen en un mismo proyecto de 
+manera organizada, registrando cambios y facilitando la colaboración.
+Así como un ciudadano digital debe respetar las normas de convivencia, los usuarios de Git deben seguir buenas prácticas para 
+evitar errores y conflictos en los proyectos. En todos los casos, la comunicación, la transparencia y el trabajo en equipo son 
+fundamentales para alcanzar objetivos comunes y generar confianza entre los participantes.
