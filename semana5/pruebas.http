@@ -1,0 +1,4 @@
+POST https://verbose-goldfish-vp6xqvgwpw76cpwxr-3000.app.github.dev/reporte
+Content-Type: application/json
+
+{"mensaje": "Reporte de prueba"}
