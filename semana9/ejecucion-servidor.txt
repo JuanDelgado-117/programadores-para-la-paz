@@ -1,0 +1,11 @@
+Al ejecutar el comando node server.js se inicia el servidor Node.js y queda escuchando solicitudes en el puerto 3000.
+
+En la terminal aparece el mensaje:
+"Servidor ejecutándose en puerto 3000".
+
+Al visitar la ruta /estado se obtiene una respuesta en formato JSON con información sobre el estado del servidor:
+
+{
+"estado": "Servidor funcionando",
+"servicio": "API comunitaria"
+}
