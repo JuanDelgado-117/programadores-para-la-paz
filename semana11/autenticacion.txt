@@ -1,0 +1,6 @@
+El login permite identificar a cada usuario antes de darle acceso a una plataforma. Gracias 
+a la autenticación, solo las personas autorizadas pueden ingresar a ciertas funciones o 
+consultar información privada. Algunas rutas deben estar protegidas para evitar accesos no 
+autorizados y posibles modificaciones de los datos. Además, nunca se deben mostrar públicamente 
+contraseñas, documentos de identidad, teléfonos, direcciones, tokens o cualquier información 
+sensible de los usuarios. Esto ayuda a proteger la privacidad y genera mayor confianza en la plataforma.

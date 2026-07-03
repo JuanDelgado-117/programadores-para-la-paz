@@ -1,0 +1,6 @@
+La plataforma tendría un formulario donde los usuarios puedan crear una nueva causa 
+comunitaria con un título, una descripción y la fecha. También mostraría una lista 
+de las causas disponibles para que cualquier persona pueda consultarlas. Cada causa 
+tendría un botón para brindar apoyo y un contador que indique cuántas personas la 
+han apoyado. La interfaz sería sencilla, fácil de usar y no mostraría información 
+privada de los usuarios.
