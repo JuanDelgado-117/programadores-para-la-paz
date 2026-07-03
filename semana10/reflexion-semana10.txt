@@ -1,0 +1,10 @@
+Las metodologías ágiles ayudan a que un equipo organice mejor su trabajo y pueda avanzar por 
+etapas sin perder de vista los objetivos principales. Utilizar un backlog permite establecer 
+prioridades y enfocarse primero en las tareas más importantes. Además, trabajar mediante 
+iteraciones facilita corregir errores y mejorar la solución de manera continua. La automatización 
+también aporta beneficios, ya que permite realizar tareas repetitivas de forma más rápida y 
+eficiente. Herramientas como Telegram ayudan a mantener informado al equipo mediante 
+notificaciones oportunas. Sin embargo, es importante automatizar únicamente información que 
+no sea sensible y mantener siempre una revisión humana. De esta manera se protege la privacidad 
+de las personas y se fortalece la confianza de la comunidad. Una buena organización y una 
+automatización responsable permiten desarrollar proyectos comunitarios más eficientes y seguros.

@@ -1,0 +1,11 @@
+Las dos primeras tareas que realizaría serían permitir el registro de reportes y enviar una 
+notificación al coordinador mediante Telegram.
+
+Estas tareas son las más importantes porque permiten recibir información de la comunidad y 
+comenzar el seguimiento de los casos desde el primer momento.
+
+Para mí, una tarea está terminada cuando:
+
+- Funciona correctamente.
+- Fue probada y no presenta errores.
+- Quedó registrada en Git con su respectivo commit.
